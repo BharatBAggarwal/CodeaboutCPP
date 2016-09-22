@@ -1,0 +1,8 @@
+6   // number of students
+20.0 // marks for students
+25.0
+15.0
+77.0
+56.0
+88.0
+5.0
