@@ -1,4 +1,5 @@
 #Source code
-for my book
+###for
 #"Go Codeabout with C++"
-ISBN-13: 978-1507837795
+##by Bharat B. Aggarwal
+###(ISBN-13: 978-1507837795)
